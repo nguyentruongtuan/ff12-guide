@@ -1,0 +1,1427 @@
+[
+  {
+    "Name": "Alluring Finery",
+    "Cost": 3180,
+    "Reward": [
+      "Lamia's Tiara x1",
+      "Enchanter's Habit x1"
+    ],
+    "LootToSell": [
+      "Fine Wool x3",
+      "Tyrant Hide x1",
+      "Ice Magicite x4"
+    ]
+  },
+  {
+    "Name": "Antidote Set",
+    "Cost": 100,
+    "Reward": [
+      "Antidote x3"
+    ],
+    "LootToSell": [
+      "Drab Wool x2"
+    ]
+  },
+  {
+    "Name": "Armor-piercing Shot",
+    "Cost": 8900,
+    "Reward": [
+      "Windslicer Shot x1",
+      "Spica x1"
+    ],
+    "LootToSell": [
+      "Ichthon Scale x4",
+      "Silver Liquid x5",
+      "Wind Crystal x7"
+    ]
+  },
+  {
+    "Name": "Arrows Alight",
+    "Cost": 2800,
+    "Reward": [
+      "Fiery Arrows x1",
+      "Long Bow x1"
+    ],
+    "LootToSell": [
+      "Crooked Fang x2",
+      "Fire Stone x4"
+    ]
+  },
+  {
+    "Name": "Arrows of the Moon Goddess",
+    "Cost": 1280,
+    "Reward": [
+      "Artemis Arrows x1"
+    ],
+    "LootToSell": [
+      "Great Serpent's Fang x2",
+      "Dorsal Fin x2",
+      "Gemini Gem x3"
+    ]
+  },
+  {
+    "Name": "Assorted Leathers",
+    "Cost": 300,
+    "Reward": [
+      "Leather Breastplate x1",
+      "Leather Headgear x1"
+    ],
+    "LootToSell": [
+      "Wolf Pelt x2",
+      "Tanned Hide x1",
+      "Dark Stone x2"
+    ]
+  },
+  {
+    "Name": "Attenuated Greatsword",
+    "Cost": 9200,
+    "Reward": [
+      "Save the Queen x1"
+    ],
+    "LootToSell": [
+      "Quality Stone x4",
+      "Sky Jewel x7",
+      "Holy Crystal x10"
+    ]
+  },
+  {
+    "Name": "Back Harness",
+    "Cost": 600,
+    "Reward": [
+      "Battle Harness x1"
+    ],
+    "LootToSell": [
+      "Throat Wolf Blood x1"
+    ]
+  },
+  {
+    "Name": "Befuddling Incendiaries",
+    "Cost": 3800,
+    "Reward": [
+      "Chaos Bombs x1",
+      "Caldera x1"
+    ],
+    "LootToSell": [
+      "Bomb Shell x4",
+      "Book of Orgain-Cent x3",
+      "Fire Crystal x7"
+    ]
+  },
+  {
+    "Name": "Black Vestments",
+    "Cost": 12800,
+    "Reward": [
+      "Black Mask x1",
+      "Black Robes x1"
+    ],
+    "LootToSell": [
+      "Blood Wool x9",
+      "Prime Tanned Hide x7",
+      "Dark Crystal x8"
+    ]
+  },
+  {
+    "Name": "Blindflight Quarrels",
+    "Cost": 11220,
+    "Reward": [
+      "Black Bolts x1",
+      "Hunting Crossbow x1"
+    ],
+    "LootToSell": [
+      "Spiral Incisor x3",
+      "Silver Liquid x3",
+      "Dark Crystal x3"
+    ]
+  },
+  {
+    "Name": "Blush of Light",
+    "Cost": 1200,
+    "Reward": [
+      "Firefly x1"
+    ],
+    "LootToSell": [
+      "Tomato Stalk x2",
+      "Magick Lamp x1",
+      "Snowfly x1"
+    ]
+  },
+  {
+    "Name": "Bow & Bodkin",
+    "Cost": 400,
+    "Reward": [
+      "Parallel Arrows x1",
+      "Shortbow x1"
+    ],
+    "LootToSell": [
+      "Bat Fang x1",
+      "Rat Pelt x2",
+      "Dark Stone x2"
+    ]
+  },
+  {
+    "Name": "Bow of the Moon Goddess",
+    "Cost": 9300,
+    "Reward": [
+      "Artemis Bow x1"
+    ],
+    "LootToSell": [
+      "Solid Horn x5",
+      "Moondust x2",
+      "Sylphi Halcyon x1"
+    ]
+  },
+  {
+    "Name": "Brawler's Fetish",
+    "Cost": 3000,
+    "Reward": [
+      "Amber Armlet x1"
+    ],
+    "LootToSell": [
+      "Gimble Stalk x2"
+    ]
+  },
+  {
+    "Name": "Brilliant Shield",
+    "Cost": 7500,
+    "Reward": [
+      "Venetian Shield x1"
+    ],
+    "LootToSell": [
+      "Ancient Turtle Shell x2",
+      "Ring Wyrm Liver x2",
+      "Undin Halcyon x1"
+    ]
+  },
+  {
+    "Name": "Burning Blade",
+    "Cost": 2025,
+    "Reward": [
+      "Flametongue x1"
+    ],
+    "LootToSell": [
+      "Lumber x2",
+      "Malboro Vine x2",
+      "Fire Stone x6"
+    ]
+  },
+  {
+    "Name": "Burning Fangs",
+    "Cost": 980,
+    "Reward": [
+      "Soleil Fang x5"
+    ],
+    "LootToSell": [
+      "Pointed Horn x2"
+    ]
+  },
+  {
+    "Name": "Burnished Protectives",
+    "Cost": 4850,
+    "Reward": [
+      "Burgonet x1",
+      "Shielded Armor x1",
+      "Ice Shield x1"
+    ],
+    "LootToSell": [
+      "Wyrm Carapace x2",
+      "Quality Hide x2",
+      "Earth Magicite x4"
+    ]
+  },
+  {
+    "Name": "Chain-link Belt",
+    "Cost": 17820,
+    "Reward": [
+      "Bubble Belt x1"
+    ],
+    "LootToSell": [
+      "Battlewyrm Carapace x2",
+      "Adamantite x1"
+    ]
+  },
+  {
+    "Name": "Chronos Tear Pack\n         Repeatable",
+    "Cost": 333,
+    "Reward": [
+      "Chronos Tear x10"
+    ],
+    "LootToSell": [
+      "Eye of the Hawk x1"
+    ]
+  },
+  {
+    "Name": "Comfy Headgear",
+    "Cost": 25000,
+    "Reward": [
+      "Cat-ear Hood x1"
+    ],
+    "LootToSell": [
+      "White Incense x2",
+      "Einherjarium x2",
+      "Virgo Gem x7"
+    ]
+  },
+  {
+    "Name": "Crimson Blade",
+    "Cost": 4444,
+    "Reward": [
+      "Karkata x1"
+    ],
+    "LootToSell": [
+      "Solid Stone x2",
+      "Vampyr Fang x3",
+      "Dark Crystal x15"
+    ]
+  },
+  {
+    "Name": "Cursed Necklace",
+    "Cost": 28000,
+    "Reward": [
+      "Nihopalaoa x1"
+    ],
+    "LootToSell": [
+      "Blood-stained Necklace x3",
+      "Death's-Head x2",
+      "Leo Gem x3"
+    ]
+  },
+  {
+    "Name": "Darksteel Blade",
+    "Cost": 17800,
+    "Reward": [
+      "Stoneblade x1"
+    ],
+    "LootToSell": [
+      "Orichalcum x2",
+      "Chimera Head x2",
+      "Taurus Gem x3"
+    ]
+  },
+  {
+    "Name": "Devastating Incendiaries",
+    "Cost": 12000,
+    "Reward": [
+      "Castellanos x1"
+    ],
+    "LootToSell": [
+      "Bomb Fragment x3",
+      "Frog Oil x2",
+      "Aries Gem x3"
+    ]
+  },
+  {
+    "Name": "Double-bladed Knife",
+    "Cost": 7500,
+    "Reward": [
+      "Zwill Crossblade x1"
+    ],
+    "LootToSell": [
+      "Windslicer Pinion x5",
+      "Malboro Flower x7",
+      "Wind Crystal x9"
+    ]
+  },
+  {
+    "Name": "Dragon Crest",
+    "Cost": 65535,
+    "Reward": [
+      "Wyrmhero Blade x1"
+    ],
+    "LootToSell": [
+      "Omega Badge x1",
+      "Godslayer's Badge x1",
+      "Lu Shang's Badge x1"
+    ]
+  },
+  {
+    "Name": "Elegant Pole",
+    "Cost": 7980,
+    "Reward": [
+      "Ivory Pole x1"
+    ],
+    "LootToSell": [
+      "Blood-darkened Bone x8",
+      "Demon Feather x6",
+      "Wind Crystal x7"
+    ]
+  },
+  {
+    "Name": "Emboldening Arms",
+    "Cost": 7980,
+    "Reward": [
+      "Chakra Band x1",
+      "Power Vest x1"
+    ],
+    "LootToSell": [
+      "Quality Pelt x6",
+      "Tanned Giantskin x4",
+      "Fire Crystal x3"
+    ]
+  },
+  {
+    "Name": "Engraved Spear",
+    "Cost": 9025,
+    "Reward": [
+      "Gungnir x1"
+    ],
+    "LootToSell": [
+      "Ketu Board x2",
+      "Broken Spear x2",
+      "Mystletainn x2"
+    ]
+  },
+  {
+    "Name": "Esoteric Draught",
+    "Cost": 108000,
+    "Reward": [
+      "Megalixir x1"
+    ],
+    "LootToSell": [
+      "Onion x3",
+      "Rat Tail x3",
+      "High Arcana x2"
+    ]
+  },
+  {
+    "Name": "Exquisite Ring",
+    "Cost": 7800,
+    "Reward": [
+      "Opal Ring x1"
+    ],
+    "LootToSell": [
+      "Frogspawn x2"
+    ]
+  },
+  {
+    "Name": "Eye Drop Set",
+    "Cost": 100,
+    "Reward": [
+      "Eye Drops x3"
+    ],
+    "LootToSell": [
+      "Demon Eyeball x2"
+    ]
+  },
+  {
+    "Name": "Eye Openers",
+    "Cost": 1280,
+    "Reward": [
+      "Phoenix Down x5",
+      "Prince's Kiss x5"
+    ],
+    "LootToSell": [
+      "Chocobo Feather x4"
+    ]
+  },
+  {
+    "Name": "Feathered Boots",
+    "Cost": 300,
+    "Reward": [
+      "Winged Boots x1"
+    ],
+    "LootToSell": [
+      "Arctic Wind x1"
+    ]
+  },
+  {
+    "Name": "Fire-bird's Whisper",
+    "Cost": 2222,
+    "Reward": [
+      "Phoenix Down x10"
+    ],
+    "LootToSell": [
+      "Jack-o'-Lantern x1"
+    ]
+  },
+  {
+    "Name": "First-aid Kit",
+    "Cost": 450,
+    "Reward": [
+      "Phoenix Down x2",
+      "Potion x2"
+    ],
+    "LootToSell": [
+      "Large Feather x3"
+    ]
+  },
+  {
+    "Name": "Flask of Oily Liquid",
+    "Cost": 4000,
+    "Reward": [
+      "Ether x1"
+    ],
+    "LootToSell": [
+      "Unpurified Ether x2",
+      "Caramel x3"
+    ]
+  },
+  {
+    "Name": "Flask of Viscous Liquid",
+    "Cost": 12000,
+    "Reward": [
+      "Hi-Ether x1"
+    ],
+    "LootToSell": [
+      "Unpurified Ether x2",
+      "Foul Liquid x2",
+      "Slime Oil x4"
+    ]
+  },
+  {
+    "Name": "Forbidding Shield",
+    "Cost": 7800,
+    "Reward": [
+      "Demon Shield x1"
+    ],
+    "LootToSell": [
+      "Aged Turtle Shell x2",
+      "Destrier Barding x8",
+      "Leamonde Halcyon x1"
+    ]
+  },
+  {
+    "Name": "Forked Spear",
+    "Cost": 6450,
+    "Reward": [
+      "Trident x1"
+    ],
+    "LootToSell": [
+      "Pointed Horn x4",
+      "Maggoty Flesh x5",
+      "Wind Magicite x6"
+    ]
+  },
+  {
+    "Name": "Gigas Gear",
+    "Cost": 17800,
+    "Reward": [
+      "Gigas Hat x1",
+      "Gigas Chestplate x1"
+    ],
+    "LootToSell": [
+      "Prime Pelt x8",
+      "Prime Tanned Hide x7",
+      "Dark Crystal x7"
+    ]
+  },
+  {
+    "Name": "Gilt Phylactery",
+    "Cost": 3000,
+    "Reward": [
+      "Golden Amulet x1"
+    ],
+    "LootToSell": [
+      "Tattered Garment x1"
+    ]
+  },
+  {
+    "Name": "Gilt Shield",
+    "Cost": 250,
+    "Reward": [
+      "Buckler x1"
+    ],
+    "LootToSell": [
+      "Molting x3",
+      "Fire Stone x3"
+    ]
+  },
+  {
+    "Name": "Golden Battle Axe",
+    "Cost": 10000,
+    "Reward": [
+      "Golden Axe x1"
+    ],
+    "LootToSell": [
+      "Electrum x2",
+      "Broken Greataxe x2",
+      "Mardu Halcyon x1"
+    ]
+  },
+  {
+    "Name": "Golden Garb",
+    "Cost": 3980,
+    "Reward": [
+      "Golden Helm x1",
+      "Golden Armor x1",
+      "Golden Shield x1"
+    ],
+    "LootToSell": [
+      "Iron Carapace x3",
+      "Tanned Hide x2",
+      "Dark Magicite x3"
+    ]
+  },
+  {
+    "Name": "Hi-Potion Pack\n         Repeatable",
+    "Cost": 1111,
+    "Reward": [
+      "Hi-Potion x10"
+    ],
+    "LootToSell": [
+      "Rainbow Egg x1"
+    ]
+  },
+  {
+    "Name": "Hollow-shaft Arrows",
+    "Cost": 3980,
+    "Reward": [
+      "Bamboo Arrows x1",
+      "Loxley Bow x1"
+    ],
+    "LootToSell": [
+      "Bat Fang x5",
+      "Yellow Liquid x1",
+      "Water Magicite x3"
+    ]
+  },
+  {
+    "Name": "Huntsman's Crossbow",
+    "Cost": 3500,
+    "Reward": [
+      "Stone Bolts x1",
+      "Recurve Crossbow x1"
+    ],
+    "LootToSell": [
+      "Bundle of Needles x1",
+      "Festering Flesh x2",
+      "Ice Magicite x5"
+    ]
+  },
+  {
+    "Name": "Iron-forged Blade",
+    "Cost": 650,
+    "Reward": [
+      "Iron Sword x1"
+    ],
+    "LootToSell": [
+      "Iron Scraps x3",
+      "Foul Flesh x2",
+      "Earth Stone x3"
+    ]
+  },
+  {
+    "Name": "Iron-forged Pole",
+    "Cost": 2115,
+    "Reward": [
+      "Iron Pole x1"
+    ],
+    "LootToSell": [
+      "Sturdy Bone x5",
+      "Demon Eyeball x3",
+      "Fire Magicite x4"
+    ]
+  },
+  {
+    "Name": "Jag-tooth Ninja Sword",
+    "Cost": 3800,
+    "Reward": [
+      "Kagenui x1"
+    ],
+    "LootToSell": [
+      "Giant Feather x5",
+      "Festering Flesh x4",
+      "Dark Magicite x5"
+    ]
+  },
+  {
+    "Name": "Jewel of Creation\n         Repeatable",
+    "Cost": 29997,
+    "Reward": [
+      "Empyreal Soul x1"
+    ],
+    "LootToSell": [
+      "Soul Powder x1",
+      "Wargod's Band x2",
+      "High Arcana x1"
+    ]
+  },
+  {
+    "Name": "Jewel of the Serpent\n         Repeatable",
+    "Cost": 19998,
+    "Reward": [
+      "Serpentarius x1"
+    ],
+    "LootToSell": [
+      "Snake Skin x4",
+      "Serpent Eye x2",
+      "High Arcana x1"
+    ]
+  },
+  {
+    "Name": "Large Gloves",
+    "Cost": 2000,
+    "Reward": [
+      "Blazer Gloves x1"
+    ],
+    "LootToSell": [
+      "Bent Staff x3"
+    ]
+  },
+  {
+    "Name": "Late-model Rifle",
+    "Cost": 8000,
+    "Reward": [
+      "Arcturus x1"
+    ],
+    "LootToSell": [
+      "Wyvern Wing x2",
+      "Yensa Fin x2",
+      "Salamand Halcyon x1"
+    ]
+  },
+  {
+    "Name": "The Leering Blade",
+    "Cost": 8800,
+    "Reward": [
+      "Deathbringer x1"
+    ],
+    "LootToSell": [
+      "Broken Sword x3",
+      "Demon Tail x7",
+      "Dark Crystal x10"
+    ]
+  },
+  {
+    "Name": "Light & Sturdy Garb",
+    "Cost": 5800,
+    "Reward": [
+      "Adamant Hat x1",
+      "Adamant Vest x1"
+    ],
+    "LootToSell": [
+      "Coeurl Pelt x6",
+      "Tanned Tyrant Hide x2",
+      "Storm Magicite x5"
+    ]
+  },
+  {
+    "Name": "Light Spear",
+    "Cost": 310,
+    "Reward": [
+      "Javelin x1"
+    ],
+    "LootToSell": [
+      "Horn x2",
+      "Foul Flesh x2",
+      "Wind Stone x3"
+    ]
+  },
+  {
+    "Name": "Life Crystal\n         Repeatable",
+    "Cost": 9999,
+    "Reward": [
+      "High Arcana x1"
+    ],
+    "LootToSell": [
+      "Arcana x10",
+      "Feystone x1",
+      "Soul of Thamasa x1"
+    ]
+  },
+  {
+    "Name": "Magepower Helm",
+    "Cost": 7500,
+    "Reward": [
+      "Magepower Shishak x1"
+    ],
+    "LootToSell": [
+      "Charger Barding x5",
+      "Chimera Head x2",
+      "Feystone x1"
+    ]
+  },
+  {
+    "Name": "Magick Shard",
+    "Cost": 99,
+    "Reward": [
+      "Holy Mote x1"
+    ],
+    "LootToSell": [
+      "Glass Jewel x8",
+      "Sky Jewel x8",
+      "Diakon Halcyon x1"
+    ]
+  },
+  {
+    "Name": "Magick Shard",
+    "Cost": 499,
+    "Reward": [
+      "Scathe Mote x1"
+    ],
+    "LootToSell": [
+      "Book of Orgain x8",
+      "Book of Orgain-Cent x8",
+      "Book of Orgain-Mille x8"
+    ]
+  },
+  {
+    "Name": "Magick Shards",
+    "Cost": 1480,
+    "Reward": [
+      "Aqua Mote x5"
+    ],
+    "LootToSell": [
+      "Festering Flesh x4"
+    ]
+  },
+  {
+    "Name": "Marksman's Delight",
+    "Cost": 550,
+    "Reward": [
+      "Silent Shot x1",
+      "Capella x1"
+    ],
+    "LootToSell": [
+      "Fish Scale x2",
+      "Green Liquid x1",
+      "Dark Stone x3"
+    ]
+  },
+  {
+    "Name": "Master-crafted Blade",
+    "Cost": 350000,
+    "Reward": [
+      "Kumbha x1"
+    ],
+    "LootToSell": [
+      "Gemsteel x2",
+      "Orichalcum x3",
+      "Mallet x2"
+    ]
+  },
+  {
+    "Name": "Matching Reds",
+    "Cost": 2480,
+    "Reward": [
+      "Red Cap x1",
+      "Brigandine x1"
+    ],
+    "LootToSell": [
+      "Coeurl Pelt x3",
+      "Quality Hide x2",
+      "Dark Magicite x3"
+    ]
+  },
+  {
+    "Name": "Matchless Metal\n         Repeatable",
+    "Cost": 29997,
+    "Reward": [
+      "Gemsteel x1"
+    ],
+    "LootToSell": [
+      "Scarletite x1",
+      "Damascus Steel x2",
+      "Hell-Gate's Flame x2"
+    ]
+  },
+  {
+    "Name": "Memories of Yore",
+    "Cost": 999,
+    "Reward": [
+      "Pebble x99"
+    ],
+    "LootToSell": [
+      "Quality Stone x5"
+    ]
+  },
+  {
+    "Name": "Monk's Garb",
+    "Cost": 3180,
+    "Reward": [
+      "Headband x1",
+      "Jujitsu Gi x1"
+    ],
+    "LootToSell": [
+      "Coeurl Pelt x4",
+      "Tyrant Hide x2",
+      "Ice Magicite x4"
+    ]
+  },
+  {
+    "Name": "Morbid Urn",
+    "Cost": 250000,
+    "Reward": [
+      "Canopic Jar"
+    ],
+    "LootToSell": [
+      "Phobos Glaze x1",
+      "Horakhty's Flame x1",
+      "Deimos Clay x1"
+    ]
+  },
+  {
+    "Name": "Mudslinger",
+    "Cost": 120000,
+    "Reward": [
+      "Mud Shot x1",
+      "Mithuna x1"
+    ],
+    "LootToSell": [
+      "Emperor Scale x2",
+      "Silver Liquid x3",
+      "Earth Crystal x8"
+    ]
+  },
+  {
+    "Name": "Mysterious Substance\n         Repeatable",
+    "Cost": 14999,
+    "Reward": [
+      "Dark Energy x1"
+    ],
+    "LootToSell": [
+      "Grimoire Togail x3",
+      "Grimoire Aidhed x3",
+      "Bat Wing x1"
+    ]
+  },
+  {
+    "Name": "Mystic Staff",
+    "Cost": 3600,
+    "Reward": [
+      "Cloud Staff x1"
+    ],
+    "LootToSell": [
+      "Quality Lumber x4",
+      "Demon Feather x6",
+      "Storm Crystal x7"
+    ]
+  },
+  {
+    "Name": "Nature's Armory",
+    "Cost": 13800,
+    "Reward": [
+      "Crown of Laurels x1",
+      "Rubber Suit x1"
+    ],
+    "LootToSell": [
+      "Prime Pelt x9",
+      "Forbidden Flesh x7",
+      "Fire Crystal x8"
+    ]
+  },
+  {
+    "Name": "Ninja Footgear",
+    "Cost": 400,
+    "Reward": [
+      "Gillie Boots x1"
+    ],
+    "LootToSell": [
+      "Slaven Harness x2"
+    ]
+  },
+  {
+    "Name": "Ninja Garb",
+    "Cost": 4800,
+    "Reward": [
+      "Black Cowl x1",
+      "Black Garb x1"
+    ],
+    "LootToSell": [
+      "Fine Wool x4",
+      "Tanned Tyrant Hide x2",
+      "Fire Magicite x5"
+    ]
+  },
+  {
+    "Name": "Noisome Incendiaries",
+    "Cost": 3280,
+    "Reward": [
+      "Poison Bombs x1",
+      "Fumarole x1"
+    ],
+    "LootToSell": [
+      "Bomb Shell x1",
+      "Fire Crystal x3"
+    ]
+  },
+  {
+    "Name": "Oil-soaked Incendiaries",
+    "Cost": 10625,
+    "Reward": [
+      "Oil Bombs x1",
+      "Tumulus x1"
+    ],
+    "LootToSell": [
+      "Bomb Ashes x3",
+      "Book of Orgain x2",
+      "Fire Crystal x3"
+    ]
+  },
+  {
+    "Name": "Permafrost Bow & Quiver",
+    "Cost": 17200,
+    "Reward": [
+      "Icecloud Arrows x1",
+      "Perseus Bow x1"
+    ],
+    "LootToSell": [
+      "Spiral Incisor x4",
+      "Antarctic Wind x2",
+      "Ice Crystal x7"
+    ]
+  },
+  {
+    "Name": "Phials & Philtres",
+    "Cost": 1980,
+    "Reward": [
+      "Serum x8",
+      "Nu Khai Sand x16"
+    ],
+    "LootToSell": [
+      "Malboro Flower x3"
+    ]
+  },
+  {
+    "Name": "Phoenix Flight",
+    "Cost": 8750,
+    "Reward": [
+      "Phoenix Down x50"
+    ],
+    "LootToSell": [
+      "Windslicer Pinion x5"
+    ]
+  },
+  {
+    "Name": "Piercing Bolts",
+    "Cost": 1680,
+    "Reward": [
+      "Grand Bolts x1"
+    ],
+    "LootToSell": [
+      "Wrath of the Gods x2",
+      "Ring Wyrm Liver x2",
+      "Capricorn Gem x3"
+    ]
+  },
+  {
+    "Name": "Platinum Gear",
+    "Cost": 9800,
+    "Reward": [
+      "Platinum Helm x1",
+      "Platinum Armor x1",
+      "Platinum Shield x1"
+    ],
+    "LootToSell": [
+      "Insect Husk x2",
+      "Tanned Giantskin x5",
+      "Storm Magicite x6"
+    ]
+  },
+  {
+    "Name": "Potion Crate",
+    "Cost": 7480,
+    "Reward": [
+      "Potion x30",
+      "Hi-Potion x20",
+      "X-Potion x10"
+    ],
+    "LootToSell": [
+      "Screamroot x3"
+    ]
+  },
+  {
+    "Name": "Potion Pack\n         Repeatable",
+    "Cost": 70,
+    "Reward": [
+      "Potion x2"
+    ],
+    "LootToSell": [
+      "Cactus Fruit x2"
+    ]
+  },
+  {
+    "Name": "Rain of Tears",
+    "Cost": 800,
+    "Reward": [
+      "Aqua Shot x1",
+      "Vega x1"
+    ],
+    "LootToSell": [
+      "Yensa Scale x1",
+      "Green Liquid x3",
+      "Water Stone x4"
+    ]
+  },
+  {
+    "Name": "Ranger's Crossbow",
+    "Cost": 1080,
+    "Reward": [
+      "Long Bolts x1",
+      "Crossbow x1"
+    ],
+    "LootToSell": [
+      "Crooked Fang x4",
+      "Yellow Liquid x2",
+      "Ice Stone x1"
+    ]
+  },
+  {
+    "Name": "Saint's Draught",
+    "Cost": 36000,
+    "Reward": [
+      "Elixir x1"
+    ],
+    "LootToSell": [
+      "Ambrosia x3",
+      "Demon Drink x3",
+      "High Arcana x1"
+    ]
+  },
+  {
+    "Name": "Samurai's Katana",
+    "Cost": 8400,
+    "Reward": [
+      "Ame-no-Murakumo x1"
+    ],
+    "LootToSell": [
+      "Iron Ore x5",
+      "Screamroot x7",
+      "Water Crystal x9"
+    ]
+  },
+  {
+    "Name": "The Scorpion",
+    "Cost": 70000,
+    "Reward": [
+      "Vrscika x1"
+    ],
+    "LootToSell": [
+      "Charged Gizzard x3",
+      "Wyrm Bone x3",
+      "Scorpio Gem x4"
+    ]
+  },
+  {
+    "Name": "Scout's Crossbow",
+    "Cost": 6400,
+    "Reward": [
+      "Time Bolts x1",
+      "Penetrator Crossbow x1"
+    ],
+    "LootToSell": [
+      "Wyvern Fang x4",
+      "Ancient Bone x3",
+      "Holy Crystal x9"
+    ]
+  },
+  {
+    "Name": "Serpent Blade",
+    "Cost": 90000,
+    "Reward": [
+      "Mesa x1"
+    ],
+    "LootToSell": [
+      "Coeurl Whisker x2",
+      "Sickle-Blade x2",
+      "Cancer Gem x3"
+    ]
+  },
+  {
+    "Name": "Serum Pack",
+    "Cost": 999,
+    "Reward": [
+      "Serum x10"
+    ],
+    "LootToSell": [
+      "Demon's Sigh x1"
+    ]
+  },
+  {
+    "Name": "Shell-worked Collar",
+    "Cost": 6000,
+    "Reward": [
+      "Turtleshell Choker x1"
+    ],
+    "LootToSell": [
+      "Bomb Shell x2",
+      "Four-Leaf Clover x2"
+    ]
+  },
+  {
+    "Name": "Shoes of the Dead",
+    "Cost": 450,
+    "Reward": [
+      "Quasimodo Boots x1"
+    ],
+    "LootToSell": [
+      "Zombie Powder x1",
+      "Destrier Mane x1"
+    ]
+  },
+  {
+    "Name": "Silver Bow",
+    "Cost": 100000,
+    "Reward": [
+      "Dhanusha x1"
+    ],
+    "LootToSell": [
+      "Beastlord Horn x3",
+      "Moon Ring x3",
+      "Sagittarius Gem x4"
+    ]
+  },
+  {
+    "Name": "Sipping Wine",
+    "Cost": 240,
+    "Reward": [
+      "Bacchus's Wine x3"
+    ],
+    "LootToSell": [
+      "Tyrant Hide x2"
+    ]
+  },
+  {
+    "Name": "Smelling Salts, & C.",
+    "Cost": 540,
+    "Reward": [
+      "Hi-Potion x4",
+      "Nu Khai Sand x2"
+    ],
+    "LootToSell": [
+      "Malboro Vine x4"
+    ]
+  },
+  {
+    "Name": "Soul of the Fire-bird",
+    "Cost": 5980,
+    "Reward": [
+      "Phoenix Down x25"
+    ],
+    "LootToSell": [
+      "Bundle of Feathers x3"
+    ]
+  },
+  {
+    "Name": "Stone Shot",
+    "Cost": 1480,
+    "Reward": [
+      "Stone Shot x1"
+    ],
+    "LootToSell": [
+      "Mirror Scale x2",
+      "Tyrant Bone x2",
+      "Libra Gem x3"
+    ]
+  },
+  {
+    "Name": "Sturdy Battle Gear",
+    "Cost": 8000,
+    "Reward": [
+      "Maximillian x1"
+    ],
+    "LootToSell": [
+      "Charger Barding x4",
+      "Split Armor x2",
+      "Pisces Gem x3"
+    ]
+  },
+  {
+    "Name": "The Sunflower",
+    "Cost": 600000,
+    "Reward": [
+      "Tournesol x1"
+    ],
+    "LootToSell": [
+      "Gemsteel x3",
+      "Empyreal Soul x3",
+      "Serpentarius x3"
+    ]
+  },
+  {
+    "Name": "Survival Set",
+    "Cost": 1500,
+    "Reward": [
+      "Antidote x12",
+      "Eye Drops x12",
+      "Echo Herbs x12"
+    ],
+    "LootToSell": [
+      "Malboro Fruit x4"
+    ]
+  },
+  {
+    "Name": "Tail of the Phoenix",
+    "Cost": 400,
+    "Reward": [
+      "Phoenix Down x2"
+    ],
+    "LootToSell": [
+      "Small Feather x3"
+    ]
+  },
+  {
+    "Name": "Tinctures & Tonics",
+    "Cost": 700,
+    "Reward": [
+      "Potion x5",
+      "Handkerchief x3",
+      "Gold Needle x3"
+    ],
+    "LootToSell": [
+      "Succulent Fruit x4"
+    ]
+  },
+  {
+    "Name": "Triage Kit",
+    "Cost": 2980,
+    "Reward": [
+      "Phoenix Down x12",
+      "Hi-Potion x3"
+    ],
+    "LootToSell": [
+      "Giant Feather x3"
+    ]
+  },
+  {
+    "Name": "Traveler's Garb",
+    "Cost": 1890,
+    "Reward": [
+      "Feathered Cap x1",
+      "Traveler's Vestment x1"
+    ],
+    "LootToSell": [
+      "Braid Wool x2",
+      "Tanned Hide x2",
+      "Water Stone x5"
+    ]
+  },
+  {
+    "Name": "Ultimate Blade",
+    "Cost": 12800,
+    "Reward": [
+      "Ultima Blade x1"
+    ],
+    "LootToSell": [
+      "Adamantite x2",
+      "Death Powder x2",
+      "Gnoma Halcyon x1"
+    ]
+  },
+  {
+    "Name": "Unassuming Surcoat",
+    "Cost": 100,
+    "Reward": [
+      "Chromed Leathers x1"
+    ],
+    "LootToSell": [
+      "Wolf Pelt x2",
+      "Earth Stone x1"
+    ]
+  },
+  {
+    "Name": "War Axe",
+    "Cost": 4680,
+    "Reward": [
+      "Francisca x1"
+    ],
+    "LootToSell": [
+      "Pointed Horn x2",
+      "Malboro Fruit x4",
+      "Wind Magicite x6"
+    ]
+  },
+  {
+    "Name": "Warped Blade",
+    "Cost": 5650,
+    "Reward": [
+      "Diamond Sword x1"
+    ],
+    "LootToSell": [
+      "Bundle of Feathers x6",
+      "Maggoty Flesh x4",
+      "Fire Magicite x6"
+    ]
+  },
+  {
+    "Name": "Water-drop Munitions",
+    "Cost": 2640,
+    "Reward": [
+      "Water Bombs x1"
+    ],
+    "LootToSell": [
+      "Book of Orgain x3",
+      "Putrid Liquid x3",
+      "Water Crystal x10"
+    ]
+  },
+  {
+    "Name": "Well-forged Blade",
+    "Cost": 80000,
+    "Reward": [
+      "Simha x1"
+    ],
+    "LootToSell": [
+      "Lifewick x3",
+      "Ring Wyrm Scale x4",
+      "Leshach Halcyon x1"
+    ]
+  },
+  {
+    "Name": "Whisker of the Beast",
+    "Cost": 60000,
+    "Reward": [
+      "Kanya x1"
+    ],
+    "LootToSell": [
+      "Mythril x3",
+      "Corpse Fly x3",
+      "Aquarius Gem x4"
+    ]
+  },
+  {
+    "Name": "White Vestments",
+    "Cost": 12800,
+    "Reward": [
+      "White Mask x1",
+      "White Robes x1"
+    ],
+    "LootToSell": [
+      "Blood Wool x9",
+      "Beastlord Hide x7",
+      "Holy Crystal x8"
+    ]
+  },
+  {
+    "Name": "Wind Walkers",
+    "Cost": 18000,
+    "Reward": [
+      "Hermes Sandals x1"
+    ],
+    "LootToSell": [
+      "Gysahl Greens x33",
+      "Arcana x15"
+    ]
+  },
+  {
+    "Name": "Wing Cord",
+    "Cost": 2000,
+    "Reward": [
+      "Pheasant Netsuke x1"
+    ],
+    "LootToSell": [
+      "Stardust x2"
+    ]
+  },
+  {
+    "Name": "Wooden Pole",
+    "Cost": 480,
+    "Reward": [
+      "Cypress Pole x1"
+    ],
+    "LootToSell": [
+      "Bone Fragment x5",
+      "Succulent Fruit x3",
+      "Earth Stone x4"
+    ]
+  },
+  {
+    "Name": "X-Potion Pack",
+    "Cost": 4444,
+    "Reward": [
+      "X-Potion x10"
+    ],
+    "LootToSell": [
+      "Behemoth Steak x1"
+    ]
+  }
+]
