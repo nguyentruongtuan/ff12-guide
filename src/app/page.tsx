@@ -1,3 +1,5 @@
+'use client'
+
 import BazaarList from '@/components/bazaar/bazaar-list';
 import { Button } from '@/components/ui/button';
 import { Separator } from "@/components/ui/separator"

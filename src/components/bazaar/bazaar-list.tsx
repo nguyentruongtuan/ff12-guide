@@ -27,7 +27,7 @@ export default function BazaarList() {
     <>
       <div className="sm:w-full xl:w-96 flex flex-col h-full">
 
-        <Input value={filterText} onChange={(e) => handleFilter(e.target.value)} type='text' placeholder='search' />
+        <Input className='text-black sticky' value={filterText} onChange={(e) => handleFilter(e.target.value)} type='text' placeholder='search' />
 
         <Separator />
 

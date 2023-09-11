@@ -1,3 +1,5 @@
+'use client'
+
 import LootListItem from "../loot/loot-list-item";
 import { Bazaar } from "./bazaar-column";
 

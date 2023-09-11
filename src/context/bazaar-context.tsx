@@ -1,6 +1,5 @@
 'use client'
 
-import { Bazaar } from "@/components/bazaar/bazaar-column"
 import { Loot } from "@/components/loot/loot-column"
 import { createContext, useContext, useState } from "react"
 
