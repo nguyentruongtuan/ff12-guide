@@ -7,7 +7,7 @@ export default function BazaarSelectedItem({ bazaar }: { bazaar: Bazaar }) {
 
 
   return (
-    <div className="w-full flex flex-col p-5 bg-slate-200 mb-2 ">
+    <div className="w-full flex flex-col p-5 bg-slate-500 mb-2 ">
       <span className='font-bold'>
         {bazaar.Name}
       </span>
